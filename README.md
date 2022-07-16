@@ -1,2 +1,2 @@
-# game-how-fast-you-are
+# html-sematics-and-css-grid
 Created with CodeSandbox
